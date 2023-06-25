@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596707536084",
+    "project_id": "mashwery-9b111",
+    "storage_bucket": "mashwery-9b111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596707536084:android:0b3bf24073fd50f4eb1f41",
+        "android_client_info": {
+          "package_name": "com.example.meshawery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596707536084-ev4h43v2n4j60963lmh0qa5l26tuf0n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLN4seYQ-Z89g8HzHXtBvie2-O1Lw1Luo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596707536084-ev4h43v2n4j60963lmh0qa5l26tuf0n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
